@@ -1,6 +1,6 @@
 # MOTION DETECTOR  
 
-This is a quick code I made to catch my roomate snooping around my room while I was away at class. It worked perfectly!
+This is a quick code I made to catch my roommate snooping around my room while I was away at class. It worked perfectly!
 
 Use OpenCV and a camera to detect motion.
 Uses the difference between consecutive video frames to detect motion. Inspired by a [tutorial from Intel](https://software.intel.com/en-us/node/754940)
